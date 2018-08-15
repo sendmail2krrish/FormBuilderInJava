@@ -2,7 +2,7 @@
 
 ## Form Example 1: 
 
-`
+<pre>
 <%
   FormBuilder fbuilder = new FormBuilder();
 %>
@@ -20,4 +20,4 @@
           .addButton("{'id': '', 'class': 'btn-primary', 'type': 'submit', 'title': 'Submit'}")
           .render()
 %>
-`
+</pre>
