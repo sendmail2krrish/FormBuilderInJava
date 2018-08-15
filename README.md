@@ -1,4 +1,4 @@
-# Dynamic Bootstrap form builder
+# Bootstrap form builder
 
 ## Form Example 1: 
 
